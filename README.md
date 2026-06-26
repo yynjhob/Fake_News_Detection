@@ -1,4 +1,4 @@
-# Fake News Detection — LLM + Classical ML
+### Fake News Detection - LLM + Classical ML
 
 A two-stage credibility assessment pipeline combining LLM-derived semantic features with traditional ML classifiers across textual, social, and temporal dimensions. Achieves 98% accuracy on the FakeNewsNet dataset.
 
